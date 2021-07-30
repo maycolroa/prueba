@@ -1,0 +1,1 @@
+hola esta es la prueba de que se cargo bien el readme en el repositorio hago esta prueba por que cambien de compu y instale el ubuntu
